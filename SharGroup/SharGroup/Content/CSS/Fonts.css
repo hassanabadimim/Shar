@@ -1,0 +1,139 @@
+﻿@font-face {
+    font-family: Shabnam-Bold;
+    src: url('../../fonts/PersionFonts/Shabnam-Bold.eot');
+    src: url('../../fonts/PersionFonts/Shabnam-Bold.eot?#iefix') format('FontName-opentype'), url('../../fonts/PersionFonts/Shabnam-Bold.woff') format('woff'), url('../../fonts/PersionFonts/Shabnam-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Shabnam;
+    src: url('../../fonts/PersionFonts/Shabnam.eot');
+    src: url('../../fonts/PersionFonts/Shabnam.eot?#iefix') format('FontName-opentype'), url('../../fonts/PersionFonts/Shabnam.woff') format('woff'), url('../../fonts/PersionFonts/Shabnam.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: Vazir-Bold-FD;
+    src: url('../../fonts/PersionFonts/Shabnam.eot');
+    src: url('../../fonts/PersionFonts/Shabnam.eot?#iefix') format('FontName-opentype'), url('../../fonts/PersionFonts/Shabnam.woff') format('woff'), url('../../fonts/PersionFonts/Shabnam.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.shabnam {
+    font-family: Shabnam;
+}
+
+.Shabnam-Bold {
+    font-family: Shabnam-Bold;
+}
+.Vazir-Bold-FD {
+    font-family: Vazir-Bold-FD;
+}
+
+
+@font-face {
+    font-family: Vazir-Medium-FD;
+    src: url('../../fonts/PersionFonts/Vazir-Medium-FD.eot');
+    src: url('../../fonts/PersionFonts/Vazir-Medium-FD.eot?#iefix') format('FontName-opentype'), url('../../fonts/PersionFonts/Vazir-Medium-FD.woff') format('woff'), url('../../fonts/PersionFonts/Vazir-Medium-FD.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Vazir-Medium-FD;
+    src: url('../../fonts/PersionFonts/Vazir-Medium-FD.eot');
+    src: url('../../fonts/PersionFonts/Vazir-Medium-FD.eot?#iefix') format('FontName-opentype'), url('../../fonts/PersionFonts/Vazir-Medium-FD.woff') format('woff'), url('../../fonts/PersionFonts/Vazir-Medium-FD.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: Vazir-Medium-FD;
+    src: url('../../fonts/PersionFonts/Vazir-Medium-FD.eot');
+    src: url('../../fonts/PersionFonts/Vazir-Medium-FD.eot?#iefix') format('FontName-opentype'), url('../../fonts/PersionFonts/Vazir-Medium-FD.woff') format('woff'), url('../../fonts/PersionFonts/Vazir-Medium-FD.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.vazir-Medium-FD {
+    font-family: Vazir-Medium-FD;
+}
+
+
+@font-face {
+    font-family: 'Yekan';
+    src: url('../../fonts/PersionFonts/Yekan.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: Yekan;
+    src: url('../../fonts/PersionFonts/Yekan.eot');
+    src: url('../../fonts/PersionFonts/Yekan.eot?#iefix') format('FontName-opentype'), url('../../fonts/PersionFonts/Yekan.woff') format('woff'), url('../../fonts/PersionFonts/Yekan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Yekan;
+    src: url('../../fonts/PersionFonts/Yekan.eot');
+    src: url('../../fonts/PersionFonts/Yekan.eot?#iefix') format('FontName-opentype'), url('../../fonts/PersionFonts/Yekan.woff') format('woff'), url('../../fonts/PersionFonts/Yekan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: Yekan;
+    src: url('../../fonts/PersionFonts/Yekan.eot');
+    src: url('../../fonts/PersionFonts/Yekan.eot?#iefix') format('FontName-opentype'), url('../../fonts/PersionFonts/Yekan.woff') format('woff'), url('../../fonts/PersionFonts/Yekan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.Yekan {
+    font-family: Yekan;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'ONEDAY';
+    src: url('../../fonts/EnglishFonts/ONEDAY.otf') format('embedded-opentype');
+}
+@font-face {
+    font-family: ONEDAY;
+    src: url('../../fonts/EnglishFonts/ONEDAY.ttf');
+    src: url('../../fonts/EnglishFonts/ONEDAY.ttf') format('truetype'), url('../../fonts/EnglishFonts/ONEDAY.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.OneDay {
+    font-family: ONEDAY;
+}
+
+@font-face {
+    font-family: 'Samim';
+    src: url('../../fonts/PersionFonts/Samim.eot');
+    src: url('../../fonts/PersionFonts/Samim.eot?#iefix') format('embedded-opentype'), url('../../fonts/PersionFonts/Samim.woff') format('woff'), url('../../fonts/PersionFonts/Samim.ttf') format('truetype');
+    font-weight: normal;
+}
+.Samim {
+    font-family: Samim;
+}

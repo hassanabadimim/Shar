@@ -1,0 +1,198 @@
+﻿.backGround {
+    background-image: url('../../Image/Title.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.companyName{
+    color:gold;
+    font-size:70px;
+    width:100%;
+    text-align:center;
+    padding-top:300px;
+    padding-bottom:50px;
+   font-weight:900;
+}
+.psk-title{
+    color:goldenrod;
+    font-size:30px;
+    text-align:right;
+    width:100%;
+    padding-right:120px;
+}
+.psk-title-center {
+    color: goldenrod;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+    padding-right: 70px;
+}
+.psk-cardWrapper {
+    width: 100%;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+.certificate-dive {
+    width: 100%;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+.card-body {
+    text-align: right;
+    padding: 8px;
+}
+.card-text {
+    color: #1e3a52;
+    font-size: 14px;
+}
+.news-ltxt {
+    float: left;
+}
+.news-rtxt{
+        color:goldenrod !important;
+    }
+.psk-card-label {
+    text-align: right;
+    padding-top: 10px !important;
+}
+.psk-card-labelDate {
+    font-size: 10px;
+    color: white;
+    direction: rtl;
+}
+.psk-card-labelDay {
+    font-size: 25px;
+    vertical-align: central;
+    text-align: center;
+    color: white;
+    padding-top: 5px !important;
+}
+.article-label {
+    height: 50px;
+    width: 100px;
+    background-color: goldenrod;
+    margin-top: -50px;
+    position: absolute
+}
+.btn-circle.btn-xl {
+}
+.circlebtn-div {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.btn-circle {
+    width: 90px;
+    height: 90px;
+    padding: 10px 16px;
+    border-radius: 50%;
+    font-size: 24px;
+    line-height: 1.33;
+    color: #ffffff !important;
+    background: #daa520;
+    border-color: #daa520 !important;
+    margin-bottom: 5px;
+}
+.btn-circle:hover {
+        border: 2px solid #daa520 !important;
+        background: #ffffff;
+        text-decoration: none;
+        color: #daa520 !important;
+        transition: all 0.4s ease 0s;
+    }
+.circle-lbl {
+    font-size: 12px;
+    color: #b8860b;
+}
+.footer-list-div li {
+    list-style-type: none;
+    font-size: 12px;
+    line-height: 20px;
+    padding-bottom:8px;
+    color: white;
+    cursor: pointer;
+}
+.psk-footer {
+    width: 100%;
+    padding-right: 10%;
+    padding-left: 10%;
+    direction:rtl;
+    background-color:#111829;
+    padding-top:20px;
+    padding-bottom:30px;
+    margin-top:40px;
+}
+.footer-list-div li:hover {
+    color: #b8860b;
+}
+.footer-list-div ul {
+    text-align: right !important;
+    padding-top:20px;
+}
+.footer-list-div i {
+    color: gold;
+    padding: 3px;
+}
+.footer-header{
+    color:#b8860b;
+    font-size:20px;
+    margin-top:20px;
+    padding-bottom:15px;
+    border-bottom:1px solid gold;
+}
+.footer-icon {
+    font-size: 25px;
+    color:red;
+}
+.slick-slide img{
+    width:100%
+}
+.slick-slide{
+    margin-left:5px;
+    margin-bottom:5px;
+}
+.slick-prev::before, .slick-next::before{
+    color:gold;
+}
+.slick-dots{
+    display:none !important;
+}
+.img-fluid{
+    margin-left:28%;
+}
+/* --------------------------------------min----------------------------------------*/
+@media only screen and (min-width: 1200px) {
+}
+
+@media only screen and (min-width: 992px) {
+  
+}
+
+@media only screen and (min-width: 720px) {
+}
+
+@media only screen and (min-width: 520px) {
+}
+
+@media only screen and (min-width: 576px) {
+}
+
+/* --------------------------------------max----------------------------------------*/
+@media only screen and (max-width: 1200px) {
+}
+
+@media only screen and (max-width: 992px) {
+    .psk-title {
+        padding-right: 40px;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+}
+
+@media only screen and (max-width: 520px) {
+}
+
+@media only screen and (max-width: 576px) {
+}
